@@ -20,5 +20,5 @@ sudo ln -s /opt/tomcat9/bin/shutdown.sh /usr/bin/stoptomcat
 sudo starttomcat
 echo "end on tomcat installation"
 sudo su - ec2-user
-==# Note ==
-kindly observe the version update on tomcat repo incase the script not installed
+== Note ==
+#kindly observe the version update on tomcat repo incase the script not installed
